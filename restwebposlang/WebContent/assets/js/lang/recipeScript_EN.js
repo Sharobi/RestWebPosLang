@@ -1,0 +1,4 @@
+var getReciepeLang = {
+
+		update : "Update",
+}

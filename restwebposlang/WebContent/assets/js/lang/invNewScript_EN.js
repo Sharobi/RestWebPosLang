@@ -1,0 +1,5 @@
+var getInvLang = {
+	
+		update : "Update",
+		
+}

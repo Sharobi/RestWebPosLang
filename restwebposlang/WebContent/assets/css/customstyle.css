@@ -1,0 +1,196 @@
+ td{
+	text-align: center;
+} 
+
+.center{
+	text-align: center;
+} 
+
+.custommodalbodyforemployeemodal{
+	background: #404040;
+	border-top: 1px solid #404040;
+	color: #fff;
+}
+
+.custommodalheaderforemployeemodal{
+	background: #939393;
+	color: #fff;
+	border-bottom: 1px solid #939393;
+}
+.custommodalfooterforemployeemodal{
+	background: #404040!important;
+	border-top: 1px solid #404040!important;
+	padding: 10px!important;
+}
+.customanchor{
+	color: white;
+}
+
+.nav-tabs > li.active > a{
+	background-color:DodgerBlue!important;
+}
+.nav-tabs{
+margin-bottom:15px!important;
+}
+.hide{
+	display: none;
+}
+.show{
+	display:block;
+}
+.customborder{
+	border-style:inset;
+}
+.error{
+	color:orange;
+}
+.fa-question-circle{
+	display:none!important;
+}
+#popup_message {
+    padding-left: 0px!important;
+    color: #717171!important;
+    min-height: 35px!important;
+    text-align: center!important;
+}
+
+.margintop{
+	margin-top:15px;
+}
+.allemployeestablerow{
+	background:#404040;
+	color:#FFF;
+}
+
+.customtext{
+color:#FFF!important;
+text-align:center!important;
+font-size: 16px!important; 
+font-weight: bold!important;
+ }
+
+.employeeshiftschedulerow{
+	background:black;  
+	 /* background:#404040;   */
+	/* color:black; */
+}
+
+.default{
+	cursor:default;
+}
+.cursorpointer{
+	cursor:pointer;
+}
+.ui-timepicker-standard{
+z-index:9999!important
+}
+
+.customdanger{
+	border-color:red;
+}
+.customselect{
+	text-align:center; 
+	color: #222222;
+	margin-right: 10px;
+}
+.customtablerow{
+	background:#404040!important; 
+	color:#FFF!important; 
+}
+.spanclass{
+	color: #FFF!important; 
+	font-size: 16px!important; 
+	font-weight: bold!important;
+}
+.customslotinputselect{
+	text-align:center!important; 
+	width:10%!important; 
+	color: #222222!important;
+	margin-bottom: 5px!important;
+}
+.customexportbutton {
+    margin-bottom: 5px!important;
+    background:#337ab7!important;
+    margin-top: 2px!important;
+    font-size: 11px!important;
+    width: 120px!important;
+}
+
+.custommodalbody{
+	background: #404040!important;
+	border-top: 1px solid #404040!important;
+	color: #fff!important;
+}
+
+.custominput{
+	text-align:center!important; 
+	width:95%!important;
+	color: #222222!important;
+	margin-bottom: 5px!important;
+}
+.modalclose{
+	background:#F60!important; 
+	font-weight: bold!important; 
+	width: 25%!important; 
+}
+.modalsave{
+	background: #72BB4F!important; 
+	font-weight: bold!important; 
+	width: 25%!important; 
+}
+.addbutton{
+	width: 80px!important;
+	background: #78B626!important;
+    margin-bottom: 3px!important;
+}
+.transbox {
+ background-image:url('/restwebposlang/assets/images/admin/tablelayout/changeImg.png');
+       no-repeat: center;
+	   height: 70px;
+	   width: 130px;
+	   border-radius:32px
+  
+ 
+}
+.roombookingmodalcustominputtag{
+	margin-bottom: 2px; 
+	color: #222222; 
+	width: 95%;
+}
+
+
+.custom80mmtable{
+  border-top: 1px solid black;
+   border-collapse: collapse;
+  }
+  
+  .customprintreceipt80mmdiv {
+    width: 205px;
+    max-width: 205px;
+}
+.custom80mmtableheader{
+
+ width: 75px;
+ max-width: 75px;
+}
+.custom80mmheadingparagraph {
+    text-align: center;
+    align-content: center;
+}
+.custom80mmtablebody{
+    width: 40px;
+    max-width: 40px;
+    /* word-break: break-all; */
+    font-size: 30px;
+}
+
+/* img {
+    max-width: inherit;
+    width: inherit;
+}
+
+@media print {
+    .hidden-print,
+    .hidden-print * {
+        display: none !important;
+    } */ */
